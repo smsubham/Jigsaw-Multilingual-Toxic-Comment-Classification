@@ -1,4 +1,7 @@
 # Jigsaw-Multilingual-Toxic-Comment-Classification
+### Challenge Description:
+
+
 It only takes one toxic comment to sour an online discussion. The Conversation AI team, a research initiative founded by Jigsaw and Google, builds technology to protect voices in conversation. A main area of focus is machine learning models that can identify toxicity in online conversations, where toxicity is defined as anything rude, disrespectful or otherwise likely to make someone leave a discussion. If these toxic contributions can be identified, we could have a safer, more collaborative internet.
 
 In the previous 2018 Toxic Comment Classification Challenge, Kagglers built multi-headed models to recognize toxicity and several subtypes of toxicity. In 2019, in the Unintended Bias in Toxicity Classification Challenge, you worked to build toxicity models that operate fairly across a diverse range of conversations. This year, we're taking advantage of Kaggle's new TPU support and challenging you to build multilingual models with English-only training data.
@@ -8,3 +11,7 @@ Jigsaw's API, Perspective, serves toxicity models and others in a growing set of
 As our computing resources and modeling capabilities grow, so does our potential to support healthy conversations across the globe. Develop strategies to build effective multilingual models and you'll help Conversation AI and the entire industry realize that potential.
 
 Disclaimer: The dataset for this competition contains text that may be considered profane, vulgar, or offensive.
+
+Repository:
+
+1. Understanding and Cleaning Data.ipyb => Loading, Visualization using wordcloud, data cleaning.
