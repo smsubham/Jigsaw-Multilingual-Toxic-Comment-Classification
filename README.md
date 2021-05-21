@@ -17,5 +17,7 @@ Repository:
 
 1. Understanding and Cleaning Data.ipynb => Loading, Visualization using wordcloud, data cleaning.
 
+Rest of the files are organised in separate folders.
 
-Complete code will be added by 21st May.
+
+Complete code will be added by 22nd May.
