@@ -21,3 +21,10 @@ Rest of the files are organised in separate folders.
 
 
 Complete code will be added by 22nd May.
+
+Few Observations/challenges/learnings
+1. LSTM were taking longer to train then RNN and GRU.
+2. GRU as expected was fastest out of tried architecture.
+3. Data Cleaning helped to some extent in reducing model training time.
+4. Observed how changing batch size can affect loss and training time of the model.
+5. Trained models with over 4 lakh trainable parameters.
