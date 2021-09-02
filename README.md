@@ -1,4 +1,4 @@
-# Complete code will be added by 23rd May.
+# Complete code will be added soon.
 # Jigsaw-Multilingual-Toxic-Comment-Classification
 ### Challenge Description:
 
